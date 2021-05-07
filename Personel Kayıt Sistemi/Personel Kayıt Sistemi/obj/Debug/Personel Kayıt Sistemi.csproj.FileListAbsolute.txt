@@ -1,0 +1,11 @@
+C:\Users\profe\Desktop\Visual Projeler\Personel Kayıt Sistemi\Personel Kayıt Sistemi\obj\Debug\Personel Kayıt Sistemi.csprojAssemblyReference.cache
+C:\Users\profe\Desktop\Visual Projeler\Personel Kayıt Sistemi\Personel Kayıt Sistemi\obj\Debug\Personel_Kayıt_Sistemi.Form1.resources
+C:\Users\profe\Desktop\Visual Projeler\Personel Kayıt Sistemi\Personel Kayıt Sistemi\obj\Debug\Personel_Kayıt_Sistemi.Properties.Resources.resources
+C:\Users\profe\Desktop\Visual Projeler\Personel Kayıt Sistemi\Personel Kayıt Sistemi\obj\Debug\Personel Kayıt Sistemi.csproj.GenerateResource.cache
+C:\Users\profe\Desktop\Visual Projeler\Personel Kayıt Sistemi\Personel Kayıt Sistemi\obj\Debug\Personel Kayıt Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\profe\Desktop\Visual Projeler\Personel Kayıt Sistemi\Personel Kayıt Sistemi\bin\Debug\Personel Kayıt Sistemi.exe.config
+C:\Users\profe\Desktop\Visual Projeler\Personel Kayıt Sistemi\Personel Kayıt Sistemi\bin\Debug\Personel Kayıt Sistemi.exe
+C:\Users\profe\Desktop\Visual Projeler\Personel Kayıt Sistemi\Personel Kayıt Sistemi\bin\Debug\Personel Kayıt Sistemi.pdb
+C:\Users\profe\Desktop\Visual Projeler\Personel Kayıt Sistemi\Personel Kayıt Sistemi\obj\Debug\Personel Kayıt Sistemi.exe
+C:\Users\profe\Desktop\Visual Projeler\Personel Kayıt Sistemi\Personel Kayıt Sistemi\obj\Debug\Personel Kayıt Sistemi.pdb
+C:\Users\profe\Desktop\Visual Projeler\Personel Kayıt Sistemi\Personel Kayıt Sistemi\obj\Debug\Personel_Kayıt_Sistemi.FrmGrafik.resources
